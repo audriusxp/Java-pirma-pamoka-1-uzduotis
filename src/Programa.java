@@ -6,6 +6,14 @@ public class Programa{
    double krastineD = 3.8;
    double perimetras = staciakampioPerimetras( krastineA,krastineB,krastineC,krastineD);
         System.out.println("perimetras = " + perimetras);
+
+        int X = 2;
+        int Z = 4;
+        int Y = 2;
+        float M = 4.2f;
+
+        int perimetrasXZYM = (int) staciakampioPerimetras(X,Z,Y,M);
+        System.out.println("perimetrasXZYM = " + perimetrasXZYM);
     }
 
     public static double staciakampioPerimetras(double a ,double b,double c ,double d )
