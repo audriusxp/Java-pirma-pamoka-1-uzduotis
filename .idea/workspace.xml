@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c90edfc7-47d5-44bb-81d6-91eab9a8bd56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pirma uzduotis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,21 +39,7 @@
     "last_opened_file_path": "C:/Users/audri/Downloads/pamoka22-java-kintamieji-funkcijos"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Perimetras">
-    <configuration name="FunkcijuPavyzdys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunkcijuPavyzdys" />
-      <module name="pirma uzduotis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Peimetras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Peimetras" />
-      <module name="pirma uzduotis" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Programa">
     <configuration name="Perimetras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Perimetras" />
       <module name="pirma uzduotis" />
@@ -72,12 +54,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="perimetras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="perimetras" />
+      <module name="pirma uzduotis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pirma" />
+      <module name="pirma uzduotis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="programa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="programa" />
+      <module name="pirma uzduotis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Perimetras" />
-        <item itemvalue="Application.Peimetras" />
-        <item itemvalue="Application.FunkcijuPavyzdys" />
         <item itemvalue="Application.Programa" />
+        <item itemvalue="Application.pirma" />
+        <item itemvalue="Application.programa" />
+        <item itemvalue="Application.perimetras" />
+        <item itemvalue="Application.Perimetras" />
       </list>
     </recent_temporary>
   </component>

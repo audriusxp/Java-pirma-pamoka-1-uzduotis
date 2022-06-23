@@ -1,4 +1,4 @@
-public class Perimetras{
+public class Programa{
     public static void main(String[] args) {
    double krastineA = 2.2;
    double krastineB = 3.2;
